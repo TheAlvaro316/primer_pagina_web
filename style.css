@@ -1,0 +1,51 @@
+header, footer{
+    text-align: center;
+    background-color: silver;
+}
+
+div{
+    background-color: lightblue;
+}
+
+th{
+    background-color: #2b60c4;
+    color: white;
+}
+
+kbd{
+    border-radius: 5px;
+    background-color: silver;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+#main{
+    text-align: center;
+}
+
+#tips{
+    background-color: silver;
+    text-align: center;
+}
+
+#list{
+    background-color:rgb(165, 206, 207);
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 1px solid black;
+    border-collapse: collapse;
+}
+
+#abb{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#short{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto; 
+}
